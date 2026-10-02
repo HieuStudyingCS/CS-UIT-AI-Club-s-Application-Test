@@ -3,6 +3,7 @@
 ## I. Thông tin chung:
 - Tên: Lê Trọng Hiếu.
 - MSSV: 25520545.
+- Lớp: KHMT2025.2.
 - Trường: Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM.
 
 ## II. Thông tin thư mục:
