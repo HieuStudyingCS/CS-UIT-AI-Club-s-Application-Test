@@ -10,7 +10,7 @@
 ````
 CS-UIT-AI-Club-Application/
 ├── README.md                  # Thông tin cá nhân, tóm tắt dự án và hướng dẫn đọc tài liệu
-├── 01_Solution_PitchDeck.md   # Trình bày giải pháp
+├── 01_Solution.md             # Trình bày giải pháp
 ├── 02_Research_and_Law.md     # Báo cáo khảo sát thị trường và cơ sở pháp lý
 └── LICENSE                    # Giấy phép phần mềm/dự án
 ````
