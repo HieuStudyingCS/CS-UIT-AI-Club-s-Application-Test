@@ -6,7 +6,7 @@ Dự án em đề xuất không hướng tới xây dựng một nền tảng th
 Vai trò của dự án là một công cụ ngắn hạn, giải quyết vấn đề thiếu sách giáo khoa, tài liệu học tập của học sinh Việt Nam ở thời điểm hiện tại. Nền tảng này (trong 2-4 tuần đầu năm học) sẽ giúp giáo viên nhanh chóng giải quyết tình trạng gián đoạn học tập bằng cách cung cấp kiến thức trọng tâm một cách hợp pháp, trong thời gian chờ đợi sách giáo khoa mới được xuất bản.
 
 ## 1. Về dự án
-Dựa trên các nguyên tắc được liệt kê tại [Khảo sát thị trường & Khung pháp lý](03_Detailed_Documents/3.1_Research_and_Law.md) và trích dẫn hợp lý, giải pháp này đảm bảo tính bao phủ từ thành phố lớn, cơ sở hạ tầng phát triển đến các vùng có cơ sở hạ tầng kém phát triển hơn.
+Dựa trên các nguyên tắc được liệt kê tại [Khảo sát thị trường & Khung pháp lý](02_Research_and_Law.md) và trích dẫn hợp lý, giải pháp này đảm bảo tính bao phủ từ thành phố lớn, cơ sở hạ tầng phát triển đến các vùng có cơ sở hạ tầng kém phát triển hơn.
 
 ## 2. Các mô hình trí tuệ nhân tạo đề xuất
 Để xử lý đặc thù của sách giáo khoa (bố cục nhiều cột, tiếng Việt có dấu, công thức Toán/Lý/Hóa), hệ thống ưu tiên các mô hình có khả năng hiểu tài liệu đa phương thức và xuất trực tiếp mã LaTeX + Markdown.
